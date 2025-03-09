@@ -14,4 +14,10 @@ Hi , this is my collection of small web development projects .
 
   ⟫I created a function changeSlide() that takes the direction of arrow and changes the current active slide index correspondingly, hence i also added the transform property to both left and right slides.
 
-  
+🎯 3rd project --> Random choice picker : It is a random choice picker where choice are entered by comma(',').
+
+  ⟫First we designed the layout of the page with html ns css.
+
+  ⟫In javascript, we created a list of choices separated by ',' and then assigned it to span tags under the input area.
+
+  ⟫setTimeInterval() function is used to create the random selecting animation. Finally we choose a random tag using Math.random() function .
