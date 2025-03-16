@@ -33,3 +33,11 @@ Hi , this is my collection of small web development projects .
     2. 'hue-rotate()' method in 'filter' property in CSS.
     3. ':focus-within' pseudo-class. 
     4. browser's localStorage to save the color selections even after reloading the page.   
+
+🎯5th project --> Online dictionary 
+
+  ⟫First we designed the overall structure of the page.
+
+  ⟫We used free dictionary api to fetch the meanings,examples,audio etc. related to the input word. Then we just placed each component in its proper position. 
+
+  ⟫instead of using async/await , we used promise.then() chain to create the functionality. 
